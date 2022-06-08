@@ -1,0 +1,32 @@
+body {
+    background-color: #C5C5C5;
+    font-size: 20px;
+}
+
+h1 {
+    color: #2C423F;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#descricao {
+    font-family: monospace;
+    color: #2C423F;
+}
+
+.destacar {
+    font-size: 1.1em;
+    color: #0F1414;
+    font-family: monospace;
+}
+
+.importante{
+    color: #0F1414;
+    font-family: monospace;
+    font-size: 1.3em;
+}
+
+.outrashabilididades{
+    color: #0F1414;
+    font-family: monospace;
+    font-size: 1em;
+}
