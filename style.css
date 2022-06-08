@@ -1,5 +1,6 @@
 body {
     background-color: #C5C5C5;
+    font-size: 20px;
 }
 
 h1 {
@@ -10,5 +11,11 @@ h1 {
 #descricao {
     font-family: monospace;
     color: #2C423F;
+}
+
+.destacar {
+    font-size: 1.1em;
+    color: #0F1414;
+    font-family: monospace;
 }
 
